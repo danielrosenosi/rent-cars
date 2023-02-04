@@ -5,11 +5,11 @@
 ### Passo a passo
 Clone Repositório
 ```sh
-git clone https://github.com/RomuloLim/laravel-challenge-estagiarios challenge
+git clone https://github.com/danielrosenosi/rent-cars.git
 ```
 
 ```sh
-cd challenge/
+cd rent-cars/
 ```
 
 Crie o Arquivo .env
@@ -20,7 +20,7 @@ cp .env.example .env
 
 Atualize as variáveis de ambiente do arquivo .env
 ```dosini
-APP_NAME=Challenge
+APP_NAME=RentCars
 APP_URL=http://localhost:8180
 
 DB_CONNECTION=mysql
